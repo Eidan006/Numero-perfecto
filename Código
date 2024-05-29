@@ -1,0 +1,11 @@
+int main () {
+for (int i =1;i<=a / 2; i++){
+if (a % i ==) {
+b = b + 1;
+}
+
+}
+if (b == a) {
+printf("\nEL nombre %d es perfecte", b);
+} else {
+printf(*ºnEL nombre %d no es perfecte", b);
